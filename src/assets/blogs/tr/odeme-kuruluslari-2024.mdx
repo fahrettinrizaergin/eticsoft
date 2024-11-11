@@ -1,0 +1,78 @@
+
+# Ödeme Kuruluşları Hakkında
+
+
+Merhaba!
+Bu yazımızda, bir çok ödeme kuruluşuna bilişim sistemi ve teknoloji sağlamış eticsoft ekibi olarak "ödeme kuruluşu" kavramını mümkün olduğunca basit şekilde fakat önemli ayrıntılarına değinmek istedik. Daha önce tecrübe ettiğimiz onlarca proje sonunda muhtemelen "ödeme kuruluşları" konusunda ülkemizin en tecrübeli ekibi biz olduk. Tüm bu tecrübeleri sizlerle paylaşmayı isteriz.
+
+
+Ödeme kuruluşları ödeme servislerini sağlayan bankacılık kuruluşlarıdır. Aslında "ödeme" fiilini daha spesifik kullanırsak, genellikle elektronik ödeme ve yine genellikle kredi kartlı elektronik ödeme metodu için servis sağlarlar.
+
+İnternet'ten yaptığımız alışverişlerin ödeme adımında karşımıza çıkan kredi kartı formu gözlerinizin önüne gelmiştir. İşte bu formda, kredi kartının bankasından ödemeyi alan ve işlemin sonucunu size ve mağazaya bildiren yapıya ödeme kuruluşu diyebiliriz.
+
+Ödeme kuruluşları, hem faaliyetleri açısında hem de yapısal olarak birer bankacılık kuruluşudur. Sadece tüzel kuruluşlara (vergi levhası olan) tahsilat hizmeti sağladıkları için "ticari bankacılık" alanında faaliyet gösterirler diyebiliriz.
+
+Ödeme kuruluşlarının gelir modeli satıcı ve alıcı arasındaki tahsilat işlemini ücretlendirmek şeklindedir. Bu gelir modeli tahsilattan küçük oranlarla işlem ücreti almak veya servisi aylık/yıllık ücretlendirmek şeklinde veya bunların kombinasyonu şeklinde olabilir. Ödeme kuruluşlarının başka faaliyetlerden gelirlerinin olması hukuken mümkün değildir. Yani yurdumuzda sık karşılaştığımız bakliyat nakliyat inşaat sanayi …. şeklinde uzayan unvanlı ticari şirketleri gibi faaliyet gösteremezler. Bankalar gibi sadece belirli işleri yapacak şekilde kurulurlar. Unvan demişken: Ödeme kuruluşlarının isimlerini bile kanun belirler. Örnek XYZ Ödeme ve Elektronik Para A.Ş. gibi.
+
+
+Ülkemizde ödeme kuruluşları ile ilgili denetim ve akreditasyon süreçleri vardır. Yani her isteyen bir ödeme şirketi kurup tahsilat servisi sağlamaya başlayamaz. Ülkemizde ödeme kuruluşları ile ilgili temel hukuki metin 6493 sayılı kanundur. Bu kanun ve alt metinlerine göre bir sermaye şirketinin ödeme kuruluşu faaliyeti göstermesi için faaliyet izni alması gerekir. Bu izne başvurmak için oldukça kapsamlı bir organizasyon şeması oluşturmaları, her şeyin güvenli şekilde tıkır tıkır işlediğini ve işleyeceğini belgelemeleri gerekiyor. Pratikte bu sürecin en kritik noktası "Ödeme Kuruluşu Bilişim Sistemi" diye isimlendirilen teknik kısım. İşler neredeyse hep buradan yürüyor.
+Geçtiğimiz yıla kadar BDDK tarafından yürütülen bu faaliyet izni ve denetimi süreci 22.11.2019 tarihinde Resmi Gazete'de yayınlanan bir yazı ile 2020'de TCMB'ye devredilmiştir. Dilerseniz buradan ÖDEME ŞİRKETİ NASIL KURULUR isimli yazıma ulaşabilirsiniz.
+
+Ödeme kuruluşları tıpkı bankalar gibi şeffaf bir yapıda ve sürekli denetlenir durumda faaliyet gösterirler. Ayrıca bu kuruluşlar tıpkı bankalar gibi nispetten yüksek bir minimum kuruluş sermayesi ödemek ve yöneteceği finansal tüm varlıkları koruma hesaplarında tutmak gibi kurallara tabi çalışırlar. En çok aldığımız sorulardan birisi olan "Ödeme kuruluşları güvenli midir ?" sorusuna bu açıdan yaklaşabiliriz. Ödeme kuruluşları ve bankalar faaliyet izinlerini aynı kurumdan alıyorlar. Denetimleri de oldukça benzer. Yani ödeme kuruluşları bankalara çok benzer bir güvenilirlikteler. Ayrıca BDDK (artık TCMB) bu sektördeki risklere karşı çok iyi tedbirlere sahip diyebiliriz.
+
+## Genel olarak bir ödeme kuruluşu aşağıdaki faaliyetleri yapar:
+
+Online ödeme servisi sağlamak (temel faaliyet)
+Web tabanlı kredi kartı ödeme servisleri
+Mobil tabanlı kredi kartı ödeme servisleri
+OTP/TOTP, auth, provizyon alma, iptal etme, ters ibraz (chargeback)
+B2B tahsilat servisleri (bayi/alt bayi tahsilat akışı) (Örnek: https://onlineodemesistemi.com)
+Para transferi (Havale/EFT) (faaliyet izninin kapsamına bağlı)
+Fatura tahsilatı yapmak (faaliyet izninin kapsamına bağlı)
+Ödeme noktaları kurmak (faaliyet izninin kapsamına bağlı )
+Dolandırıcılık koruma servisi sağlamak
+Kart saklama hizmeti sağlamak (Teknik standartlara sahip olmasına bağlı)
+Raporlama, muhasebeleştirme yardımcı araçları sağlamak
+Kolay entegrasyon araçları sağlamak (Örnek: https://www.slideshare.net/MahmutGLERCE/payment-facilitator-opensource-pitch-deck )
+
+Ülkemizde çalışmalarının bitmek üzere olduğunu tahmin ettiğimiz PSD-2 (Payment Service Directive) benzeri bir deklarasyon (kanun/yönetmelik/tebliğ) yayınlandığında bu faaliyet listesi biraz daha genişleyecek. Bu arada bir çok ödeme kuruluşu aynı zamanda "elektronik para kuruluşu" faaliyet iznine de sahip olduğundan bireysel vadesiz mevduat hesabı, fiziksel kart (plastik kart) gibi ürünler de dahil neredeyse tüm bankacılık faaliyetlerini sağlayabiliyorlar.
+
+Ödeme kuruluşlarının temel iddiasının elektronik ortamda yapılan tahsilatları kolaylaştırmak olmasına ek, özellikle kurulum maliyetlerinin çok düşük veya sıfır olması da başka bir ayırt edici tarafları. Bu strateji e-ticaret işletmelerinin klasik banka ödeme servisleri yerine bu ödeme kuruluşlarını seçmesini hedefliyor. Stratejinin doğruluğunu onaylar şekilde, ödeme kuruluşlarının hem sayısı hem de toplam ciroları hızlı bir artış eğilimi içerisinde. Özellikle e-ticaret mağazalarının çoğunluğunun artık banka yerine ödeme kuruluşları ile çalışmak istediklerini görebiliyoruz. (İstatistik kaynakları: Ödeme ve Elektronik Para Derneği, BDDK verileri, Sanalpospro yıllık raporları)
+
+Tahsilatı kolaylaştırmak demişken; Başka yazılarımızda PF/PSP kavramlarına değinmiştik. "PF" (Payment Facilitator) Türkçe'ye sanırım "Ödeme Kolaylaştırıcı" diye çevrildiğinde hiç fena durmuyor. Önce "ödeme" neden kolaylaştırılmalı bunu açıklayayım: Ülkemizde ve Dünya'da bir çok banka ve kredi kartı türü var. Bir satıcı bu kartların hepsinden elektronik ortamda tahsilat alabilmek isterse onlarca farklı entegrasyon yöntemi ve yüzlerce senaryo için teknik geliştirme yapmalı bir çok banka ve kredi kartı ağı ile sözleşmeler imzalamalıdır. Örneğin ülkemizde 20 civarında bankanın ödeme servisi var. Ayrıca yüze yakın farklı kart türü ve dört adet kart ağı var. Ödeme senaryolarının sayısını hesaplarken taksitlendirme limitleri, kampanyalar, taksit erteleme gibi bir sürü çarpan daha var. Bunların hepsinden ödeme almak için bir sürü entegrasyon ve sözleşme yapmak gerekiyor. Ödeme kuruluşları hepsini tek sözleşmede ve tek entegrasyonda sağlıyor.
+
+Ödeme kuruluşları genelde 6-7 kart türüne taksitli alışveriş sağlayabiliyor. Tabi kolaylaştırılan tek süreç bu değil. Kuruluş süreci de daha kısa ve genelde daha kolay. Bunlara ek dolandırıcılık koruma servisinden tutun, tekrarlayan ödemelere, kampanya servislerine kadar bir çok başka avantaja erişim de söz konusu.
+
+### Mesleki tecrübelerimize göre ödeme kuruluşları ile çalışmayı seçenlerin temel nedenleri önem sırasına göre şöyle:
+
+Düşük (çoğu zaman sıfır) kurulum maliyeti
+Düşük tahsilat maliyeti
+Kolay entegrasyon
+Basit yapı
+Düşük vade
+Ödeme araçları (mobil uygulamalar, hazır ödeme sayfaları, ödeme linkleri v.b.)
+
+Altını çizmekte fayda var, bu liste genel eğilimler için. Bu avantajları her zaman her ödeme kuruluşu sağlayamıyor. Ayrıca maliyet konusunu hesaplamak biraz karmaşık. İşlem başına ücret, uzun vadeli geri ödemeler, toplam ciro, ortalama tutar gibi başka parametreler ile iyi hesaplamak gereken bir konu. Kendi girişimlerimden birinde takım arkadaşlarım neredeyse her gün bir çok mağaza için hesaplama yapıp en iyi ödeme kuruluşuna veya bankaya yönlendirme yapıyor. Konu bu noktaya gelmişken, ödeme kuruluşlarındaki dostlarımızın da hep tecrübe ettiği üzere "maliyet" konusunun birinci tercih sebebi olmadığı işletmeler de hiç az sayıda değil. Güven ve güvenlik önemli bir faktör.
+
+Ülkemizde bazı ödeme kuruluşları daha eski ve köklü şirketler gruplarının girişimi şeklinde kurulmuştur. Bu kuruluşlar genelde bağlı oldukları şirketler grubunun tahsilatlarını birincil kaynak olarak kullanırlar. Yine startup iş modeli ile kurulup değerlenmeyi bekleyen girişimler de mevcuttur. Aktif ödeme kuruluşlarının 4-5 tanesi diğerlerinden ayırt edici şekilde popülerleşmiştir.
+
+Ödeme kuruluşlarının gelir ve giderlerini gösteren rakamlara kolayca erişebilirsiniz. Fakat kuruluşların toplam değeri hesaplanırken karlılıklarından çok stratejik değerleri, müşteri sayıları (traction) ve aldıkları faaliyet izninin prestiji de hesaba katılır. Bu yüzden bazılarına on milyonlarca Lira yatırım yapılmış milyarla ifade edilen değerlerde el değiştirmiştir.
+
+Ödeme kuruluşları ilk faaliyet izninden önce tabiri caizse tepeden tırnağa kusursuz bir yapı kurduklarını göstermek zorundadır. Çoğu zaman aylar süren bu kurulum süreci içerisinde farklı kuruluşlarca bir çok denetim, inceleme ve test yapılır. Kişisel bilgilerin korunmasından risk yönetimine, güvenlik testlerinden muhasebe raporlarına kadar her şeyin tıkır tıkır işleyeceğini göstermeden bu faaliyet iznini almak pek mümkün değildir.
+
+Ödeme kuruluşları periyodik olarak denetlenirler. Bu denetimi bir bağımsız denetim kuruluşu yapar. Bazen özel durumlarda denetime yetkili kuruluş (BDDK/TCMB) de özel denetimler yapabilir. Denetimlerin raporlarının bir kısmı genellikle kamuya açık olarak yayınlanır. Bu denetim mekanizmaları bankalar için de benzer şekildedir.
+
+Ödeme kuruluşları tahsilatını yaptıkları ödemeleri bir koruma hesabına aktarırlar. Mağazaya ait olan bu para korumalı hesaplarda bir süre bekler. Bu süreler hukuki metinlerle belirlenmiştir. Mağazaya geri ödeme yapacağı zaman bu hesaptan geri alınırlar. Burada amaç mağazanın alacağının korumasıdır.
+
+Ülkemiz özelinde ödeme kuruluşları genelde "yerel" ve "Dünya'dan izole" bir pazara sahipler. Yerellik alsında bankacılık sektörü için alışıldık bir durumdur. Fakat Fin-tech girişimleri genelde teknolojinin erişebilirliğini kullanarak tüm Dünya pazarını hedefler. Ülkemizin Fin-tech alanında teknik olarak gayet iyi bir ülke olmasına karşın (bu alanda teknolojik olarak oldukça iyiyiz) Dünya markaları çıkaramama sebepleri başka bir yazı konusu olabilir. Hem mevzuat hem de sermayenin ufukları muhtemel sebepler arasına yazılabilir. Buna karşın uluslararası işbirlikleri ile hizmetlerini geniş alanlara yayan kuruluşlarımız da mevcuttur.
+
+                                            Ödeme kuruluşları temelinde Fin-tech olan, neredeyse tamamen teknoloji ile işleyen ve oldukça innovativ bir alanda faaliyet gösteriyorlar. Bu sebeple ödeme kuruluşlarında genelde yaş ortalaması genç ve teknik altyapısı iyi bir ekip çalışır. Bankalar ile benzer mevzuatlara dayalı çalıştıkları için ödeme kuruluşları ile çalışmaya karar veren işletmeleri bekleyen süreç benzerdir. KYC denilen bu süreç tıpkı bankaların yaptığı gibi bir ıslak imzalı sözleşme ve eklerinin gönderimi başlar. Bu resmi işlemlerin çerçevesini BDDK (artık TCMB) belirler.
+
+                                            Evrak işlemlerinden sonraki süreçte hesapların tanımlanması ve entegrasyon kısmı başlar. Sektör jargonumuzda bu sürece boarding denir. E-ticaret websiteleri açık kaynak bir uygulama kullanıyorsa genelde entegrasyon işlemi için bir eklenti/modül yazılım bulunur ve genelde bunun kurulumu bir kaç tıklama ile biter. Yine genelde bu eklenti/modül ücretsizdir. Kiralık e-ticaret paketlerinde de genelde hazır bir entegrasyon uygulaması vardır. Bu alanda sanırım en iyi örneklerden biri olarak ürünümüz sanalpospro'yu gösterebiliriz. Bir çok ödeme şirketi ile bu entegrasyon ürünümüzün çerçevesinde iş birliği yapıyoruz.
+
+                                            Ödeme kuruluşları mağazalara geri ödeme yapmak için genelde "ertesi gün ödeme" seçeneği veya "haftalık ödeme" seçenekleri sunarlar. Bazı risk ve sektör farklılıklarına göre bu seçenekler genişleyebilir. İşlem ücret oranları da aynı şekilde mağazalar için farklılık gösterebiliyor. Yüksek ciro düşük işlem ücreti hemen her ödeme kuruluşunun sunduğu ücret politikası olarak biliniyor. Taksit sayısı arttıkça işlemin ücreti de artar. Çünkü aracı bankanın ücretlendirme tarifesi böyledir.
+
+                                            Ödeme kuruluşları son kullanıcılardan yani kredi kartı sahiplerinden herhangi bir ücret almazlar. Son kullanıcılar için maliyetler fiziki POS cihazı veya banka sanalposu ile bire bir aynı çerçevede ilerler. Kartlardan çekilecek tutarın taksit seçimine göre değişiklik göstermesinin sebebi mağazanın işlem ücretini alıcıya yansıtmasıdır. Bazı mağazalar bu ücreti hiç yansıtmaz ve maliyeti kendi öder. Peşin fiyatına 9 taksit gibi. Genelde bankalar veya ödeme kuruluşları da böyle taksit kampanyaları yaptıklarında mağazalar da yapar.
+
+                                            Ülkemizdeki ödeme şirketleri ile ilgili bu yazıda paylaşmak istediklerimiz şimdilik bu kadar. Eklemek ve düzeltmek istedikleriniz için yorumları kullanabilirsiniz. Şimdiden teşekkürler.
+

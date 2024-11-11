@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Eticsoft policies",
+    "translations": {
+      "en": {
+        "title": "Databases for Payment Systems: The Key to Reliability and Performance",
+        "description": "Financial technologies (fintech) offer innovative solutions that digitize various financial services, including payment systems. Payment systems require a sophisticated infrastructure to manage financial transactions reliably, quickly, and securely. In this context, databases become a critical component that forms the foundation of payment systems...",
+        "keywords": "Payment systems, Databases, Fintech, Financial technologies",
+        "mdxPath": "/src/assets/blogs/en/databases-payment-systems.mdx"
+      },
+      "tr": {
+        "title": "Ödeme Sistemleri için Veritabanları: Güvenilirlik ve Performansın Anahtarı",
+        "description": "Finansal teknolojiler (fintech), ödeme sistemleri dahil olmak üzere çeşitli finansal hizmetleri dijitalleştiren yenilikçi çözümler sunar. Ödeme sistemleri, finansal işlemleri güvenilir, hızlı ve güvenli bir şekilde yönetmek için gelişmiş bir altyapı gerektirir...",
+        "keywords": "Ödeme sistemleri, Veritabanları, Fintech, Finansal teknolojiler",
+        "mdxPath": "/src/assets/blogs/tr/odeme-sistemleri-veritabanlari.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/a.png",
+    "date": "02/12/2023",
+    "author": "Elif Ekici"
+  },
+  {
+    "id": 2,
+    "translations": {
+      "en": {
+        "title": "Payment Plugin Development for Payment/Banking Institutions",
+        "description": "Simply, they are ready-to-use and free integration software (a.k.a. add-on, plugin, extension) that can be distributed freely to your customers with your brand name. Merchants can use it on their own B2C or B2B websites...",
+        "keywords": "Payment Plugin Development, Payment Gateway, Payment Integration, Payment Systems, Fintech",
+        "mdxPath": "/src/assets/blogs/en/payment-plugin-development.mdx"
+      },
+      "tr": {
+        "title": "Ödeme/Bankacılık Kurumları için Ödeme Eklentisi Geliştirme",
+        "description": "Basitçe, müşterilerinize kendi markanızla ücretsiz olarak dağıtabileceğiniz kullanıma hazır entegrasyon yazılımlarıdır (eklenti, uzantı olarak da bilinir). Satıcılar, kendi B2C veya B2B web sitelerinde kullanabilirler...",
+        "keywords": "Ödeme Eklentisi Geliştirme, Ödeme Altyapısı, Ödeme Entegrasyonu, Ödeme Sistemleri, Fintech",
+        "mdxPath": "/src/assets/blogs/tr/odeme-eklentisi-gelistirme.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/Payment Plugin Development.webp",
+    "date": "20/06/2021",
+    "author": "Eticsoft"
+  },
+  {
+    "id": 3,
+    "translations": {
+      "en": {
+        "title": "PFCS in Fintech Systems: The Future of Financial Control",
+        "description": "PFCS (Predictive Financial Control System) represents a groundbreaking advancement in financial technology, transforming how institutions manage risk, process transactions, and ensure regulatory compliance. This advanced system combines sophisticated algorithms with real-time data processing to enhance banking operations...",
+        "keywords": "PFCS, Predictive Financial Control System, Fintech, Financial Technology, Banking Systems, Risk Management, Financial Control",
+        "mdxPath": "/src/assets/blogs/en/pfcs-fintech-systems.mdx"
+      },
+      "tr": {
+        "title": "Fintech Sistemlerinde PFCS: Finansal Kontrolün Geleceği",
+        "description": "PFCS (Öngörülü Finansal Kontrol Sistemi), finansal teknolojide çığır açan bir gelişmeyi temsil eder ve kurumların riski nasıl yönettiğini, işlemleri nasıl işlediğini ve düzenleyici uyumu nasıl sağladığını dönüştürür. Bu gelişmiş sistem, bankacılık operasyonlarını geliştirmek için sofistike algoritmaları gerçek zamanlı veri işleme ile birleştirir...",
+        "keywords": "PFCS, Öngörülü Finansal Kontrol Sistemi, Fintech, Finansal Teknoloji, Bankacılık Sistemleri, Risk Yönetimi, Finansal Kontrol",
+        "mdxPath": "/src/assets/blogs/tr/pfcs-fintech-sistemleri.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/pfcs-futures.png",
+    "date": "08/11/2024",
+    "author": "Eticsoft"
+  },
+  {
+    "id": 4,
+    "translations": {
+      "en": {
+        "title": "What is PCI-DSS? Understanding Payment Card Industry Data Security Standards",
+        "description": "PCI-DSS (Payment Card Industry Data Security Standard) is a comprehensive set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment. This global standard is essential for protecting cardholder data and reducing payment card fraud...",
+        "keywords": "PCI-DSS, Payment Security, Credit Card Security, Data Security Standards, Payment Card Industry, Security Compliance, Payment Processing",
+        "mdxPath": "/src/assets/blogs/en/understanding-pci-dss.mdx"
+      },
+      "tr": {
+        "title": "PCI-DSS Nedir? Ödeme Kartı Endüstrisi Veri Güvenliği Standartlarını Anlamak",
+        "description": "PCI-DSS (Ödeme Kartı Endüstrisi Veri Güvenliği Standardı), kredi kartı bilgilerini kabul eden, işleyen, saklayan veya ileten tüm şirketlerin güvenli bir ortam sağlamasını garanti altına almak için tasarlanmış kapsamlı bir güvenlik standardıdır. Bu global standart, kart sahiplerinin verilerini korumak ve ödeme kartı dolandırıcılığını azaltmak için gereklidir...",
+        "keywords": "PCI-DSS, Ödeme Güvenliği, Kredi Kartı Güvenliği, Veri Güvenliği Standartları, Ödeme Kartı Endüstrisi, Güvenlik Uyumluluğu, Ödeme İşleme",
+        "mdxPath": "/src/assets/blogs/tr/pci-dss-anlama.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/pci-dss-security.png",
+    "date": "08/11/2024",
+    "author": "Eticsoft"
+  },
+  {
+    "id": 5,
+    "translations": {
+      "en": {
+        "title": "The Strategic Impact of Information Systems on Payment and E-Money Institutions",
+        "description": "As a team developing information systems for various banking institutions in the field of financial technologies for about 15 years, we share our experiences through various blog posts. In this article, we'll discuss a crucial topic not only for payment and e-money institutions but now for all banking institutions...",
+        "keywords": "Fintech, Payment Systems, E-Money, Banking Technology, Information Systems, Financial Technology, Digital Banking",
+        "mdxPath": "/src/assets/blogs/en/strategic-impact-information-systems.mdx"
+      },
+      "tr": {
+        "title": "Bilgi Sistemlerinin Ödeme ve Elektronik Para Kuruluşları Üzerindeki Stratejik Etkisi",
+        "description": "Yaklaşık 15 yıldır finansal teknolojiler alanında çeşitli bankacılık kuruluşlarına bilişim sistemleri geliştiren bir ekip olarak deneyimlerimizi çeşitli blog yazıları ile paylaşıyoruz. Bu yazımızda sadece ödeme ve elektronik para kuruluşları değil artık tüm bankacılık kuruluşları için önemli bir konuya değineceğiz...",
+        "keywords": "Fintech, Ödeme Sistemleri, E-Para, Bankacılık Teknolojisi, Bilgi Sistemleri, Finansal Teknoloji, Dijital Bankacılık",
+        "mdxPath": "/src/assets/blogs/tr/bilgi-sistemleri-stratejik-etki.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/fintech-systems.png",
+    "date": "08/11/2024",
+    "author": "Eticsoft"
+  },
+  {
+    "id": 6,
+    "translations": {
+      "en": {
+        "title": "Understanding Payment Institutions: A Comprehensive Guide",
+        "description": "As the eticsoft team who has provided IT systems and technology to many payment institutions, we explore the concept of payment institutions, their operations, regulations, and impact on the financial sector. Learn about the structure, revenue models, security measures, and technological infrastructure of payment institutions in detail.",
+        "keywords": "Payment Institutions, Financial Technology, Banking Systems, Payment Processing, Electronic Money, Financial Regulations, Banking Technology",
+        "mdxPath": "/src/assets/blogs/en/payment-institutions-2024.mdx"
+      },
+      "tr": {
+        "title": "Ödeme Kuruluşları: Kapsamlı Bir İnceleme",
+        "description": "Bir çok ödeme kuruluşuna bilişim sistemi ve teknoloji sağlamış eticsoft ekibi olarak, ödeme kuruluşlarının kavramını, operasyonlarını, düzenlemelerini ve finans sektörüne etkilerini inceliyoruz. Ödeme kuruluşlarının yapısı, gelir modelleri, güvenlik önlemleri ve teknolojik altyapısı hakkında detaylı bilgi edinin.",
+        "keywords": "Ödeme Kuruluşları, Finansal Teknoloji, Bankacılık Sistemleri, Ödeme İşleme, Elektronik Para, Finansal Düzenlemeler, Bankacılık Teknolojisi",
+        "mdxPath": "/src/assets/blogs/tr/odeme-kuruluslari-2024.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/payment-institutions-guide.jpg",
+    "date": "11/11/2024",
+    "author": "Eticsoft"
+  },
+  {
+    "id": 7,
+    "translations": {
+      "en": {
+        "title": "What is PFCS - Payment Institution Information System?",
+        "description": "A comprehensive overview of PFCS, an end-to-end payment and electronic money institution information system developed by EticSoft, including its features, capabilities, and advantages in the fintech sector...",
+        "keywords": "PFCS, Payment Systems, Electronic Money, Banking Technology, Information Systems, Financial Technology, Payment Processing",
+        "mdxPath": "/src/assets/blogs/en/pfcs-payment-system.mdx"
+      },
+      "tr": {
+        "title": "PFCS - Ödeme Kuruluşu Bilişim Sistemi Nedir?",
+        "description": "EticSoft tarafından geliştirilen uçtan uca ödeme ve elektronik para kuruluşu bilişim sistemi PFCS'in özellikleri, yetenekleri ve fintech sektöründeki avantajlarına kapsamlı bir bakış...",
+        "keywords": "PFCS, Ödeme Sistemleri, Elektronik Para, Bankacılık Teknolojisi, Bilişim Sistemleri, Finansal Teknoloji, Ödeme İşlemleri",
+        "mdxPath": "/src/assets/blogs/tr/pfcs-odeme-sistemi.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/blogs/images/pfcs-admin.png",
+    "date": "2020-07-13",
+    "author": "admin"
+  }
+]

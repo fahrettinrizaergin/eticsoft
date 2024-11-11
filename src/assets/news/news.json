@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "translations": {
+      "en": {
+        "title": "CepPOS got 3rd place at 2021 of IDC Financial Services",
+        "description": "CepPOS mobile application wins 3rd place of Digital Channel Projects at 2021 IDC Financial Services.",
+        "mdxPath": "/src/assets/news/en/ceppos-idc-financial-services.mdx"
+      },
+      "tr": {
+        "title": "CepPOS, 2021 IDC Finansal Hizmetler'de 3. oldu",
+        "description": "CepPOS mobil uygulaması, 2021 IDC Finansal Hizmetler Dijital Kanal Projeleri'nde 3. sırada yer aldı.",
+        "mdxPath": "/src/assets/news/tr/ceppos-idc-finansal-hizmetler.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/news/images/x.webp",
+    "date": "02/12/2023",
+    "author": "Elif Ekici"
+  },
+  {
+    "id": 2,
+    "translations": {
+      "en": {
+        "title": "EticSoft and Emlak Katılım Bank Launch Major Fintech Project: CepPOS",
+        "description": "One of the oldest banking institutions in Turkey, Emlak Katılım Bank has started a huge fintech development project with EticSoft. The project CepPOS aims at several fintech products and an end-to-end e-payment processing infrastructure.",
+        "mdxPath": "/src/assets/news/en/emlak-katilim-ceppos-launch.mdx"
+      },
+      "tr": {
+        "title": "EticSoft ve Emlak Katılım Bankası Büyük Fintech Projesi: CepPOS'u Başlatıyor",
+        "description": "Türkiye'nin en eski bankacılık kurumlarından biri olan Emlak Katılım Bankası, EticSoft ile büyük bir fintech geliştirme projesine başladı. CepPOS projesi, çeşitli fintech ürünlerini ve uçtan uca e-ödeme işleme altyapısını hedefliyor.",
+        "mdxPath": "/src/assets/news/tr/emlak-katilim-ceppos-baslangic.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/news/images/emlak-katilim-kapak.png",
+    "date": "02/12/2023",
+    "author": "Elif Ekici"
+  },
+  {
+    "id": 3,
+    "translations": {
+      "en": {
+        "title": "PayTr & EticSoft Signed Partnership for SanalPos PRO!",
+        "description": "EticSoft and PayTr have joined forces to enhance digital payment solutions. This strategic partnership will integrate PayTr's virtual POS infrastructure with EticSoft's SanalPos PRO platform.",
+        "mdxPath": "/src/assets/news/en/paytr-eticsoft-partnership.mdx"
+      },
+      "tr": {
+        "title": "PayTr ve EticSoft, SanalPos PRO için İş Ortaklığı İmzaladı!",
+        "description": "EticSoft ve PayTr, dijital ödeme çözümlerini geliştirmek için güçlerini birleştirdi. Bu stratejik ortaklık, PayTr'nin sanal POS altyapısını EticSoft'un SanalPos PRO platformuyla entegre edecek.",
+        "mdxPath": "/src/assets/news/tr/paytr-eticsoft-ortaklik.mdx"
+      }
+    },
+    "thumbnail": "/src/assets/news/images/paytr-partnership.jpg",
+    "date": "02/12/2023",
+    "author": "Elif Ekici"
+  }
+]

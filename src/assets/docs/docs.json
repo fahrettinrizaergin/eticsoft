@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "device-and-office-security-procedure",
+    "translations": {
+      "en": {
+        "title": "Device and Office Security Procedure",
+        "description": "All electronic devices inside the offices must be inventory-approved and defined devices by the Board. This procedure outlines security protocols for office devices and premises...",
+        "keywords": "Office Security, Device Security, Security Procedures, Physical Security",
+        "mdxPath": "/src/assets/docs/en/device-and-office-security-procedure.mdx"
+      },
+      "tr": {
+        "title": "Cihaz ve Ofis Güvenliği Prosedürü",
+        "description": "Ofislerin içindeki tüm elektronik cihazlar Kurul tarafından envanter onayı verilmiş ve tanımlı cihazlar olmalıdır. Bu prosedür, ofis cihazları ve tesisleri için güvenlik protokollerini özetler...",
+        "keywords": "Ofis Güvenliği, Cihaz Güvenliği, Güvenlik Prosedürleri, Fiziksel Güvenlik",
+        "mdxPath": "/src/assets/docs/tr/cihaz-ve-ofis-guvenligi-proseduru.mdx"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "emergency-plan-and-policy",
+    "translations": {
+      "en": {
+        "title": "Emergency Plan and Policy",
+        "description": "The purpose of this policy and associated plans is to determine the conditions, methods, and procedures for EticSoft to fulfill its obligations in unexpected and extraordinary situations...",
+        "keywords": "Emergency Plan, Disaster Recovery, Business Continuity, Crisis Management",
+        "mdxPath": "/src/assets/docs/en/emergency-plan-and-policy.mdx"
+      },
+      "tr": {
+        "title": "Olağanüstü Durum Plan ve Politikası",
+        "description": "Bu politikanın ve bağlı planların amacı, EticSoft'un, beklenmedik ve olağanüstü durumlarda yükümlülüklerini yerine getirme koşullarını, yöntemlerini ve prosedürlerini belirlemektir...",
+        "keywords": "Acil Durum Planı, Felaket Kurtarma, İş Sürekliliği, Kriz Yönetimi",
+        "mdxPath": "/src/assets/docs/tr/olaganustu-durum-plan-ve-politikasi.mdx"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "eticsoft-business-continuity-policy",
+    "translations": {
+      "en": {
+        "title": "EticSoft Business Continuity Policy",
+        "description": "To ensure the continuity of all processes and functions in which EticSoft operates together with its employees, business partners, and customers...",
+        "keywords": "Business Continuity, Risk Management, Disaster Recovery, Business Operations",
+        "mdxPath": "/src/assets/docs/en/eticsoft-business-continuity-policy.mdx"
+      },
+      "tr": {
+        "title": "EticSoft İş Sürekliliği Politikası",
+        "description": "EticSoft'un çalışanları, iş ortakları ve müşterileri ile birlikte faaliyet gösterdiği tüm süreç ve fonksiyonların sürekliliğini sağlamak...",
+        "keywords": "İş Sürekliliği, Risk Yönetimi, Felaket Kurtarma, İş Operasyonları",
+        "mdxPath": "/src/assets/docs/tr/eticsoft-is-surekliligi-politikasi.mdx"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "eticsoft-general-information-security-procedures",
+    "translations": {
+      "en": {
+        "title": "EticSoft General Information Security Procedures",
+        "description": "A binding reference implementation guide for everyone who can access the company's software, hardware, and information assets, primarily including all EticSoft employees, business partners, consultants, and managers...",
+        "keywords": "Information Security, Security Procedures, Data Protection, Security Guidelines",
+        "mdxPath": "/src/assets/docs/en/eticsoft-general-information-security-procedures.mdx"
+      },
+      "tr": {
+        "title": "EticSoft Genel Bilgi Güvenliği Prosedürleri",
+        "description": "EticSoft Genel Bilgi Güvenliği Prosedürleri tüm EticSoft çalışanları, iş ortakları, danışmanları, yöneticileri başta olmak üzere şirketin yazılım, donanım ve bilgi varlıklarına erişebilecek her kişi için bağlayıcı olan referans bir uygulama kılavuzdur...",
+        "keywords": "Bilgi Güvenliği, Güvenlik Prosedürleri, Veri Koruma, Güvenlik Kılavuzları",
+        "mdxPath": "/src/assets/docs/tr/eticsoft-genel-bilgi-proseduru.mdx"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "eticsoft-information-security-definitions",
+    "translations": {
+      "en": {
+        "title": "EticSoft Information Security Definitions",
+        "description": "Comprehensive definitions and classifications for information security terms, roles, responsibilities and asset classifications used within EticSoft...",
+        "keywords": "Security Definitions, Information Assets, Security Board, Asset Classification",
+        "mdxPath": "/src/assets/docs/en/eticsoft-information-security-definitions.mdx"
+      },
+      "tr": {
+        "title": "EticSoft Bilgi Güvenliği Tanımları",
+        "description": "EticSoft içerisinde kullanılan bilgi güvenliği terimleri, roller, sorumluluklar ve varlık sınıflandırmaları için kapsamlı tanımlar ve sınıflandırmalar...",
+        "keywords": "Güvenlik Tanımları, Bilgi Varlıkları, Güvenlik Kurulu, Varlık Sınıflandırma",
+        "mdxPath": "/src/assets/docs/tr/eticsoft-bilgi-guvenligi-tanimlari.mdx"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "eticsoft-information-security-policy",
+    "translations": {
+      "en": {
+        "title": "EticSoft Information Security Policy",
+        "description": "Information security policy aims to establish principles for identifying threats to EticSoft's information assets, preventive measures and implementation processes, and business continuity throughout this process...",
+        "keywords": "Information Security, Policy, Security Management, Assets Protection",
+        "mdxPath": "/src/assets/docs/en/eticsoft-information-security-policy.mdx"
+      },
+      "tr": {
+        "title": "EticSoft Bilgi Güvenliği Politikası",
+        "description": "Genel Bilgi Güvenliği Politikası ile EticSoft'un bilgi varlıklarına yönelik tehditleri belirleme, önlem olma ve uygulama süreçleri ile tüm bu sürecin iş sürekliliğinin kazanılmasındaki ilkeleri belirlemeyi amaçlar...",
+        "keywords": "Bilgi Güvenliği, Politika, Güvenlik Yönetimi, Varlık Koruma",
+        "mdxPath": "/src/assets/docs/tr/eticsoft-bilgi-politikasi.mdx"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "external-systems-access-general-procedure",
+    "translations": {
+      "en": {
+        "title": "External Systems Access General Procedure",
+        "description": "In cases where installation, inspection, maintenance, upgrade, detection, etc. operations need to be performed on a system not hosted by EticSoft, access can be granted upon request from customers and business partners under specified conditions...",
+        "keywords": "External Access, System Security, Access Control, Security Procedures",
+        "mdxPath": "/src/assets/docs/en/external-systems-access-general-procedure.mdx"
+      },
+      "tr": {
+        "title": "Dış Sistemlere Erişim Genel Prosedürü",
+        "description": "EticSoft tarafında barındırılmayan bir sistem üzerinde kurulum, denetim, bakım, yükseltme, tespit v.b. işlemlerin yapılmasının gerekli olması hallerde, müşterilerin ve iş ortaklarının talebi ile belirlenen şartlar çerçevesinde erişilerek işlem yapılabilir...",
+        "keywords": "Dış Erişim, Sistem Güvenliği, Erişim Kontrolü, Güvenlik Prosedürleri",
+        "mdxPath": "/src/assets/docs/tr/dis-sistemlere-erisim-genel-proseduru.mdx"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "human-resources-policy",
+    "translations": {
+      "en": {
+        "title": "Human Resources Policy",
+        "description": "Comprehensive policies and procedures covering recruitment, training, employee development, productivity, continuity, motivation, hierarchy, and compensation aspects of human resources management...",
+        "keywords": "Human Resources, HR Policy, Employment, Training, Compensation",
+        "mdxPath": "/src/assets/docs/en/human-resources-policy.mdx"
+      },
+      "tr": {
+        "title": "İnsan Kaynakları Politikası",
+        "description": "İnsan kaynakları yönetiminin işe alım, eğitim, çalışan gelişimi, verimlilik, süreklilik, motivasyon, hiyerarşi ve ücretlendirme yönlerini kapsayan kapsamlı politika ve prosedürler...",
+        "keywords": "İnsan Kaynakları, İK Politikası, İstihdam, Eğitim, Ücretlendirme",
+        "mdxPath": "/src/assets/docs/tr/insan-kaynaklari-politikasi.mdx"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "management-policies",
+    "translations": {
+      "en": {
+        "title": "Management Policies",
+        "description": "EticSoft uses written policy and procedure documents that it references while carrying out all process operations and fulfilling its responsibilities...",
+        "keywords": "Management Policy, Corporate Governance, Documentation, Transparency",
+        "mdxPath": "/src/assets/docs/en/management-policies.mdx"
+      },
+      "tr": {
+        "title": "Yönetim Politikaları",
+        "description": "EticSoft tüm süreç işleyişleri ve sorumluluklarını yerine getirirken referans aldığı yazılı politika ve prosedür belgelerini kullanır...",
+        "keywords": "Yönetim Politikası, Kurumsal Yönetim, Dokümantasyon, Şeffaflık",
+        "mdxPath": "/src/assets/docs/tr/yonetim-politikalari.mdx"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "virtualpos-pro-partnership-procedure",
+    "translations": {
+      "en": {
+        "title": "VirtualPOS PRO! Partnership Procedure",
+        "description": "To standardize collaboration processes with VirtualPOS PRO! stakeholders to ensure fair competition, transparency and continuity, and to develop our collaboration processes with stakeholders in a healthy and sustainable way...",
+        "keywords": "VirtualPOS, Partnership, Integration, Financial Services, Payment Systems",
+        "mdxPath": "/src/assets/docs/en/virtualpos-pro-partnership-procedure.mdx"
+      },
+      "tr": {
+        "title": "SanalPOS PRO! İşbirliği Prosedürü",
+        "description": "SanalPos PRO! paydaşlarıyla işbirliği süreçlerini standartlaştırarak adil rekabet, şeffaflık ve süreklilik sağlamak, paydaşlarımızla işbirliği süreçlerimizi sağlıklı ve sürdürülebilir şekilde geliştirmek...",
+        "keywords": "SanalPOS, İşbirliği, Entegrasyon, Finansal Hizmetler, Ödeme Sistemleri",
+        "mdxPath": "/src/assets/docs/tr/sanalpos-pro-isbirligi-proseduru.mdx"
+      }
+    }
+  }
+]
